@@ -1,2 +1,2 @@
 # manager-users
-Interface para gerenciador de usuários
+Interface para gerenciar usuários
